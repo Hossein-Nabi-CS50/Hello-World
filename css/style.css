@@ -25,3 +25,11 @@ body {
     justify-content: center;
     background: var(--bg-primary);
 }
+
+/*
+    ** Navigation Bar **
+*/
+
+nav .nav-brand strong {
+    color: red;
+}
